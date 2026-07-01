@@ -1,6 +1,6 @@
 # CasaOS AppStore
 
-[![GitHub issues by-label](https://img.shields.io/github/issues/IceWhaleTech/CasaOS-AppStore/help%20wanted?label=help%20wanted&style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![GitHub contributors](https://img.shields.io/github/contributors/IceWhaleTech/CasaOS-AppStore?style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors)
+[![GitHub issues by-label](https://img.shields.io/github/issues/IceWhaleTech/CasaOS-AppStore/help%20wanted?label=help%20wanted&style=for-the-badge)](https://hijodelkaliman.github.io+is%3Aopen+label%3A%22help+wanted%22) [![GitHub contributors](https://img.shields.io/github/contributors/IceWhaleTech/CasaOS-AppStore?style=for-the-badge)](https://hijodelkaliman.github.io)
 
 CasaOS AppStore needs your help to grow:
 
@@ -18,12 +18,12 @@ CasaOS allows you to customize your device with a variety of third-party app sto
 
 Simply copy the provided source link and add it to your CasaOS settings to access the corresponding app store.
 
-- [Awesome Store list](https://awesome.casaos.io/content/3rd-party-app-stores/list.html)
+- [Awesome Store list](https://hijodelkaliman.github.io)
 
 ## Contributors
 
-<a href="https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IceWhaleTech/CasaOS-AppStore" />
+<a href="https://hijodelkaliman.github.io">
+  <img src="https://hijodelkaliman.github.io" />
 </a>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
